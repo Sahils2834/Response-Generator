@@ -1,0 +1,21 @@
+{
+    "evaluation_prompts": 15,
+    "base_model": "Qwen2.5-1.5B-Instruct",
+    "version_1_training_examples": 182,
+    "version_2_training_examples": 231,
+    "version_1_final_validation_loss": 0.427459,
+    "version_2_final_validation_loss": 0.414156,
+    "validation_loss_reduction_percent": 3.11,
+    "version_1_meaning_preservation": {
+        "Yes": 8,
+        "Partial": 6,
+        "No": 1
+    },
+    "version_2_meaning_preservation": {
+        "Yes": 8,
+        "Partial": 6,
+        "No": 1
+    },
+    "version_1_unsupported_additions_flagged": 8,
+    "version_2_unsupported_additions_flagged": 7
+}
